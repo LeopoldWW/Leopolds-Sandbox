@@ -1,0 +1,14 @@
+C:\Users\leopo\source\repos\CheckPrimzahl\bin\Debug\net8.0\CheckPrimzahl.exe
+C:\Users\leopo\source\repos\CheckPrimzahl\bin\Debug\net8.0\CheckPrimzahl.deps.json
+C:\Users\leopo\source\repos\CheckPrimzahl\bin\Debug\net8.0\CheckPrimzahl.runtimeconfig.json
+C:\Users\leopo\source\repos\CheckPrimzahl\bin\Debug\net8.0\CheckPrimzahl.dll
+C:\Users\leopo\source\repos\CheckPrimzahl\bin\Debug\net8.0\CheckPrimzahl.pdb
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.AssemblyInfoInputs.cache
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.AssemblyInfo.cs
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.csproj.CoreCompileInputs.cache
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.dll
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\refint\CheckPrimzahl.dll
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.pdb
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\CheckPrimzahl.genruntimeconfig.cache
+C:\Users\leopo\source\repos\CheckPrimzahl\obj\Debug\net8.0\ref\CheckPrimzahl.dll

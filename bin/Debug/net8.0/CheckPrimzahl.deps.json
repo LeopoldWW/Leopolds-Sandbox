@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CheckPrimzahl/1.0.0": {
+        "runtime": {
+          "CheckPrimzahl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckPrimzahl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
